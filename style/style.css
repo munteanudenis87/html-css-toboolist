@@ -7,6 +7,9 @@
     height: 60px;
     vertical-align: middle;
 }
+.logo-title{
+    font-size: xx-large;
+}
 .background{
     background-color: rgb(214, 209, 209);
     padding: 50px 150px;
@@ -16,8 +19,10 @@
     padding: 0px 50px;
 }
 .task-color{
+    margin-left: -15px;
     background-color: rgb(50, 50, 252);
     color: white;
+    border: solid rgb(50, 50, 252);
 }
 .task-padding{
     padding: 15px;
@@ -26,14 +31,23 @@
     background-color: white;
     color: grey;
     border: solid grey;
+    margin-left: 5px;
+}
+.hr-align{
+    margin-left: -50px;
+    margin-right: -50px;
 }
 .title-align{
     padding: 20px 0px 5px;
 }
 .add-tag{
+    font-size: x-small;
+    padding: 1%;
     border-radius: 5px;
 }
 .radius{
+    font-size: xx-small;
+    padding: 1%;
     border-radius: 7px;
     text-align: center;
     color: white;
@@ -57,6 +71,7 @@
     background-color: greenyellow;
 }
 .circle{
+    margin-right: 10px;
     border-radius: 50%;
 }
 .circle-color{
@@ -69,4 +84,10 @@
 }
 .logo{
     padding: 0px 20px;
+}
+.title-align{
+    padding: 20px 0px 10px 0px;
+}
+.tag-padding{
+    padding: 0px 0px 10px 0px;
 }
