@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-logo{
+    height: 60px;
+    vertical-align: middle;
+}
+.background{
+    background-color: rgb(214, 209, 209);
+    padding: 50px 150px;
+}
+.main-section{
+    background-color: white;
+    padding: 0px 50px;
+}
+.task-color{
+    background-color: rgb(50, 50, 252);
+    color: white;
+}
+.task-padding{
+    padding: 15px;
+}
+.section-color{
+    background-color: white;
+    color: grey;
+    border: solid grey;
+}
+.title-align{
+    padding: 20px 0px 5px;
+}
+.add-tag{
+    border-radius: 5px;
+}
+.radius{
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+}
+.tag-color{
+    background-color: rgb(50, 50, 252);
+}
+.tag2-color{
+    background-color: blueviolet;
+}
+.tag3-color{
+    background-color: rgb(8, 61, 8);
+}
+.tag4-color{
+    background-color: orangered;
+}
+.tag5-color{
+    background-color: rgb(255, 85, 113);
+}
+.tag6-color{
+    background-color: greenyellow;
+}
+.circle{
+    border-radius: 50%;
+}
+.circle-color{
+    border: solid green;
+    color: green;
+}
+.circle2-color{
+    border: solid red;
+    color: red;
+}
+.logo{
+    padding: 0px 20px;
+}
